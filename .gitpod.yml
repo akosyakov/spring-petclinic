@@ -19,3 +19,11 @@ jetbrains:
   intellij:
     plugins:
       - com.haulmont.jpab
+    prebuilds:
+      version: stable
+  goland:
+    prebuilds:
+      version: latest
+  pycharm:
+    prebuilds:
+      version: both
